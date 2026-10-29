@@ -1,0 +1,6 @@
+{
+  "name": "OTG LLM - Offline Android Jetpack Compose Inference",
+  "description": "Native Android Jetpack Compose offline LLM chat application with Storage Access Framework (SAF) for OTG USB drives, LiteRT/GGUF inference, Room database, and RAM guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
